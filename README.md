@@ -8,7 +8,7 @@
 
 There are several ways of creating your application.
 
-**Use coding skill**
+**Use coding skill*
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/c6fbdb9e-0db4-4f13-a8c6-6a740a9d9c58) and start prompting.
 
