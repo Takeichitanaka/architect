@@ -4,7 +4,7 @@
 
 **URL**: https://lovable.dev/projects/c6fbdb9e-0db4-4f13-a8c6-6a740a9d9c58
 
-
+## How can I edit this code?
 
 There are several ways of creating your application.
 
@@ -33,7 +33,7 @@ cd <YOUR_PROJECT_NAME>
 npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+
 ```
 
 **Edit a file directly in GitHub**
