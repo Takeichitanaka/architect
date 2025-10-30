@@ -58,6 +58,7 @@ This project is built with:
 - TypeScript
 - React
 - Tailwind CSS
+-Css3
 
 ## how to deploy the project?
 
