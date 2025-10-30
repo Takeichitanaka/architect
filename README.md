@@ -1,6 +1,6 @@
 # Welcome to my portfolio project
 
-
+## Project info
 
 **URL**: https://lovable.dev/projects/c6fbdb9e-0db4-4f13-a8c6-6a740a9d9c58
 
